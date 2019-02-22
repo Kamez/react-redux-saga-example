@@ -7,4 +7,6 @@ from the command prompt clone the project
 * $npm install
 * $npm start
 
+credit form Youtube: techsith.
+
 [Watch the Tutorial](https://youtu.be/Fq15pkckMqQ).
